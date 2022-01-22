@@ -1,0 +1,38 @@
+# Tools of trade
+
+- system
+    - OS: MacOS
+        - see [setup script](https://github.com/endreymarcell/dotfiles/blob/master/.setup-mac.sh)
+    - utilities to make it usable:
+        - [Homebrew](https://brew.sh/) 
+        - [Alfred](https://www.alfredapp.com/) (not sure if I still need it TBH)
+        - [BetterTouchTool](https://folivora.ai/) (resize windows, use multiple clipboards, etc.)
+- coding
+    - shell: [fish](https://fishshell.com/)
+    - utilities: 
+        - [autojump](https://github.com/wting/autojump)
+    - editor/IDE:
+        - for simple text editing: [vim](https://www.vim.org/)
+            - prefer [MacVim](https://macvim-dev.github.io/macvim/)
+            - using [this .vimrc](https://github.com/endreymarcell/dotfiles/blob/master/vim/.vimrc)
+        - for proper work: [JetBrains products](https://www.jetbrains.com/) (IDEA, CLion)
+            - plugins and utilities:
+                - [IdeaVim](https://github.com/JetBrains/ideavim)
+                - [Prettier](https://plugins.jetbrains.com/plugin/10456-prettier)
+                - [TabNine](https://www.tabnine.com/)
+    - color scheme: Material Palenight
+- browsing
+    - browser: Google Chrome
+    - extensions:
+        - Event Merge for Google Calendar
+        - JSON Viewer
+        - React Developer Tools
+        - Requestly
+        - Stylus
+        - Vimium
+- misc
+    - file management
+        - locally: [Marta](https://marta.sh/)
+        - sync: [Dropbox](https://dropbox.com/)
+    - notetaking: [Dropbox Paper](https://paper.dropbox.com/)
+    - password management: [LastPass](https://lastpass.com/)
