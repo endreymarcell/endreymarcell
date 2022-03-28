@@ -5,8 +5,8 @@
         - see [setup script](https://github.com/endreymarcell/dotfiles/blob/master/.setup-mac.sh)
     - utilities to make it usable:
         - [Homebrew](https://brew.sh/) 
-        - [Alfred](https://www.alfredapp.com/) (not sure if I still need it TBH)
-        - [BetterTouchTool](https://folivora.ai/) (resize windows, use multiple clipboards, etc.)
+        - [Raycast](https://www.raycast.com/)
+        - [BetterTouchTool](https://folivora.ai/)
 - coding
     - shell: [fish](https://fishshell.com/)
     - utilities: 
@@ -15,11 +15,11 @@
         - for simple text editing: [vim](https://www.vim.org/)
             - prefer [MacVim](https://macvim-dev.github.io/macvim/)
             - using [this .vimrc](https://github.com/endreymarcell/dotfiles/blob/master/vim/.vimrc)
-        - for proper work: [JetBrains products](https://www.jetbrains.com/) (IDEA, CLion)
+        - for proper work: [JetBrains products](https://www.jetbrains.com/) (IDEA)
             - plugins and utilities:
                 - [IdeaVim](https://github.com/JetBrains/ideavim)
                 - [Prettier](https://plugins.jetbrains.com/plugin/10456-prettier)
-                - [TabNine](https://www.tabnine.com/)
+                - [TabNine](https://www.tabnine.com/) and [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot) for fun
     - color scheme: Material Palenight
 - browsing
     - browser: Google Chrome
@@ -35,4 +35,4 @@
         - locally: [Marta](https://marta.sh/)
         - sync: [Dropbox](https://dropbox.com/)
     - notetaking: [Dropbox Paper](https://paper.dropbox.com/)
-    - password management: [LastPass](https://lastpass.com/)
+    - password management: [Bitwarden](https://bitwarden.com/)
