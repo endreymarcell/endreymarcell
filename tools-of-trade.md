@@ -7,6 +7,8 @@
         - [Homebrew](https://brew.sh/) 
         - [Raycast](https://www.raycast.com/)
         - [BetterTouchTool](https://folivora.ai/)
+        - [Alttab](https://alt-tab-macos.netlify.app/)
+        - [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
 - coding
     - shell: [fish](https://fishshell.com/)
     - utilities: 
@@ -20,14 +22,14 @@
                 - [IdeaVim](https://github.com/JetBrains/ideavim)
                 - [Prettier](https://plugins.jetbrains.com/plugin/10456-prettier)
                 - [TabNine](https://www.tabnine.com/) and [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot) for fun
-    - color scheme: Material Palenight
+    - color scheme: [Palenight](https://plugins.jetbrains.com/plugin/15515-palenight)
 - browsing
     - browser: Google Chrome
     - extensions:
         - Event Merge for Google Calendar
         - JSON Viewer
         - React Developer Tools
-        - Requestly
+        - Redux DevTools
         - Stylus
         - Vimium
 - misc
