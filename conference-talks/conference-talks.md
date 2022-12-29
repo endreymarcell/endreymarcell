@@ -2,7 +2,7 @@
 
 | Date | Title | Event | Links | Snapshot |
 |-|-|-|-|-|
-| 2022.11.29. | **Life after React: Svelte and friends** (HU) | [HWSW Free! Modern Webfejlesztés](https://rendezveny.hwsw.hu/free/83/webfejlesztes-meetup) | [slides](https://endreymarcell.hu/presents/hwsw-2022-11)<br>[recording](https://youtu.be/6MwUv6lvK4w?t=2087) | ![](img/2022-11-29-svelte.png) |
+| 2022.11.29. | **Life after React: Svelte and friends** (HU) | [HWSW Free! Modern Webfejlesztés](https://rendezveny.hwsw.hu/free/83/webfejlesztes-meetup) | [slides](https://endreymarcell.hu/presents/hwsw-2022-11)<br>[recording](https://www.youtube.com/watch?v=T4r6vYs3wlc) | ![](img/2022-11-29-svelte.png) |
 | 2022.11.17. | **Teaching JavaScript to the uninterested** | [Conf42: JavaScript2022](https://www.conf42.com/js2022) | [recording](https://www.youtube.com/watch?v=FHM0WToMnSE) | ![](img/2022-11-17-teaching-js.png) |
 | 2022.07.21. | **Rethinking git command names** | Draft #3 (Prezi's internal engineering conference) | [code](https://github.com/endreymarcell/git-sane)<br/>[recording](https://youtu.be/91J19QG5pzo) | ![](img/2022-07-21-git-sane.png) |
 | 2022.05.25. | **Package managers: npm, Yarn, pnpm** | Web Guild Meetup 2022 (Wise) | - | ![](img/2022-05-26-package-managers.jpg) |
