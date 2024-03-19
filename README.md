@@ -6,4 +6,4 @@ See also:
 - [My meetup and conference talks](conference-talks/conference-talks.md)  
 - [Teaching experience](teaching/teaching.md)
 - My website at [endreymarcell.hu](https://endreymarcell.hu)  
-- My blog at [namingthings.app](https://namingthings.app)
+- My blog at [namingthings.tech](https://namingthings.tech)
